@@ -46,7 +46,7 @@ function Contact() {
     {
       id: 4,
       name: "WhatsApp",
-      username: "+254 701 781 432",
+      username: "+254 701 781 432, 0112358855",
       desc: "Reach us directly for quotations and fast consultations.",
       icon: <MessageCircle size={22} />,
       link: "https://wa.me/254701781432",
@@ -223,8 +223,9 @@ function Contact() {
                   Phone Number
                 </h3>
 
-                <p className="text-gray-400 mt-3">
-                  +254 701 781 432
+                <p className="text-gray-400 mt-3 flex flex-col">
+                  +254 701 781 432 
+                  <span>+254 112 358 855</span>
                 </p>
               </div>
 

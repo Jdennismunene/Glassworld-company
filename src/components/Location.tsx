@@ -40,7 +40,7 @@ function Location() {
           </h1>
 
           <p className="text-gray-400 text-lg leading-loose mt-8 max-w-xl">
-            We are located at Machakos Junction, providing modern architectural
+            We are located at Makutano Junction, providing modern architectural
             glass solutions for homes, offices, and commercial spaces. Visit us
             for consultations, custom projects, and premium installations.
           </p>
@@ -60,7 +60,7 @@ function Location() {
                 </h3>
 
                 <p className="text-gray-400 mt-2">
-                  Machakos Junction, Nairobi Highway,
+                  Makutano Junction, Nairobi Highway,
                   Kenya. p.o box 8 Machakos
                 </p>
               </div>
@@ -79,6 +79,7 @@ function Location() {
 
                 <p className="text-gray-400 mt-2">
                   +254 701 781 432
+                  +254 112 358 855
                 </p>
               </div>
             </div>

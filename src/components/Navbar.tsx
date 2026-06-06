@@ -44,8 +44,8 @@ function Navbar() {
             />
 
             <h1 className="text-2xl lg:text-3xl font-black text-white tracking-wide">
-              Glass
-              <span className="text-cyan-400">World</span>
+              GLASS
+              <span className="text-red-900 offset-2">W🌏RLD</span>
             </h1>
 
           </a>
